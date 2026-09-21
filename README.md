@@ -105,14 +105,6 @@ A modern e-commerce project focused on presenting products through a clean and i
 
 **Focus:** Web Development • UI/UX • E-commerce
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammedomarworks&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedomarworks&layout=compact&hide_border=true" />
-</p>
 
 ---
 
